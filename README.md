@@ -16,3 +16,4 @@ Sorting Methods:
 Conclusion:
           I return nr of comparations and interchanges from a sorting method
           II return the time of sorting with the defined method
+ 
